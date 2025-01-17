@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import './bootstrap.min.css'
 
 function App() {
   const [input, setInput] = useState("");
